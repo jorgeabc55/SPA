@@ -1,0 +1,3 @@
+La carpeta myNewApp es un proyecto en aungular y ejemplo01 es de spring 
+el proyecto esta incompleto por varios errores y falta de tiempo debido a otras materias
+esperemos valore el esfuerzo
